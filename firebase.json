@@ -20,6 +20,6 @@
     }
   ],
   "hosting": {
-    "rewrites": [{ "source": "**", "function": "helloWorld" }]
+    "rewrites": [{ "source": "**", "function": "handler" }]
   }
 }
